@@ -1,0 +1,103 @@
+{
+	"galleries":[
+
+
+		{
+			"name": "Our Solar System",
+			"folder": "planets",
+			"images": [
+				{
+					"image": "mercury.jpg",
+					"title": "Mercury",
+					"description":"Swift Planet"
+				},
+
+				{
+					"image": "venus.jpg",
+					"title": "Venus",
+					"description":"Evening Star"
+				},
+
+				{
+					"image": "earth.jpg",
+					"title": "Earth",
+					"description":"Home Planet"
+				},
+
+				{
+					"image": "mars.jpg",
+					"title": "Mars",
+					"description":"Red Planet"
+				},
+
+				{
+					"image": "jupiter.jpg",
+					"title": "Jupiter",
+					"description":"Giant Planet"
+				},
+
+				{
+					"image": "saturn.jpg",
+					"title": "Saturn",
+					"description":"Ringed P lanet"
+				},
+
+				{
+					"image": "uranus.jpg",
+					"title": "Uranus",
+					"description":"Ice Planet"
+				},
+
+				{
+					"image": "neptune.jpg",
+					"title": "Neptune",
+					"description":"Big Blue"
+				},
+
+				{
+					"image": "pluto.jpg",
+					"title": "Pluto",
+					"description":"Dwarf Planet"
+				},
+
+				{
+					"image": "rocket.jpg",
+					"title": "Rocket",
+					"description":"Explore The Unknown"
+				}
+
+			]
+		},
+
+		{
+			"name": "Pet Portraits",
+			"folder": "pets",
+			"images": [
+				{
+					"image": "the-cat.jpg",
+					"title": "Simba",
+					"description":"Secretly evil overlord..."
+				},
+				{
+					"image": "benny.jpg",
+					"title": "Benny",
+					"description":"He's cute and he knows it."
+				}
+			]
+		},
+
+		{
+			"name": "Landscapes",
+			"folder": "landscapes",
+			"images": [
+				{
+					"image": "Fantasy_Landscape_1.png",
+					"title": "Fantasy Landscape",
+					"description":""
+				}
+			]
+		}
+
+
+	]
+}
